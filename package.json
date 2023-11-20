@@ -1,0 +1,17 @@
+{
+  "name": "nosql-social-network",
+  "version": "1.0.0",
+  "description": "- [NoSQL-Social-Network](#nosql-social-network)\r   - [Table of Contents](#table-of-contents)\r   - [Description:](#description)\r   - [Criteria:](#criteria)\r   - [Installation](#installation)\r   - [Walkthrough Video](#walkthrough-video)\r   - [Questions](#questions)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1"
+  }
+}

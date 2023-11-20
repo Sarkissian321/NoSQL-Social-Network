@@ -42,5 +42,5 @@ npm start
 
 ## Questions
 Feel free to contact me:
-- [Email](sarkissian.mell321@yahoo.com)
-- [Github](Sarkissian321)
+- sarkissian.mell321@yahoo.com
+- Github: Sarkissian321
